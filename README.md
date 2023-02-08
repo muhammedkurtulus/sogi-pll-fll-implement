@@ -1,4 +1,4 @@
 # sogi-pll-fll-implement
-SOGI-PLL/FLL algorithm in C / Nuvoton / Sine Look Up Table
+SOGI-PLL/FLL algorithm in C | Nuvoton | Sine Look Up Table
 # test 
 nuvoton m031
